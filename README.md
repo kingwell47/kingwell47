@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning the fundamentals.
 - 💞️ I’m looking to collaborate on anything at all.
-- 📫 How to reach me: https://joeldoctor.com//contact
+- 📫 How to reach me: https://joeldoctor.com/contact
 
 <!---
 kingwell47/kingwell47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
